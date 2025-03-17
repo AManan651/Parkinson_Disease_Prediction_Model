@@ -3,7 +3,7 @@ public_ML-Parkinson_model-
 Parkinson's disease (PD) is a progressive neurodegenerative disorder that primarily affects movement. It is caused by the loss of dopamine-producing neurons in the substantia nigra, a region of the brain responsible for motor control. The exact cause of this neuronal loss is still unknown, but genetic and environmental factors are believed to play a role.
 
 # Symptoms
-![image alt](https://github.com/AManan651/public_ML-Parkinson_model-/blob/main/parkinson-disease-symptoms-infographic_1308-48394.jpg?raw=true)
+![image alt](https://github.com/AManan651/public_ML-Parkinson_model-/blob/main/parkinson-disease-symptoms-infographic_1308-48394.jpg?raw=true) <br>
 Motor Symptoms: Tremors, bradykinesia (slowness), muscle rigidity, postural instability, and freezing of gait.
 Non-Motor Symptoms: Cognitive decline, depression, sleep disturbances, constipation, and loss of smell.
 
