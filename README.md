@@ -13,7 +13,7 @@ Environmental Triggers: Pesticides, heavy metals, and head trauma.<br>
 Aging: Common in people over 60.
 
 # Diagnosis
-PD is diagnosed based on clinical symptoms, medical history, and response to dopaminergic drugs. Imaging techniques like MRI and DaTscan help rule out other conditions.
+PD is diagnosed based on clinical symptoms, medical history, and response to dopaminergic drugs. <br>Imaging techniques like MRI and DaTscan help rule out other conditions.
 
 # Treatment
     Medications: Levodopa, dopamine agonists, MAO-B inhibitors.<br>
