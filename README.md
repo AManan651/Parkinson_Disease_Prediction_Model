@@ -18,5 +18,19 @@ PD is diagnosed based on clinical symptoms, medical history, and response to dop
 # Treatment
     Medications: Levodopa, dopamine agonists, MAO-B inhibitors.<br>
     Therapies: Physical therapy, speech therapy, and deep brain stimulation (DBS) for advanced cases.<br>
-    Lifestyle: Regular exercise, diet, and cognitive training improve quality of life.    
+    Lifestyle: Regular exercise, diet, and cognitive training improve quality of life. 
+# Attribute Information:
+Matrix column entries (attributes):
+name - ASCII subject name and recording number(not need to give)<br>
+MDVP:Fo(Hz) - Average vocal fundamental frequency<br>
+MDVP:Fhi(Hz) - Maximum vocal fundamental frequency<br>
+MDVP:Flo(Hz) - Minimum vocal fundamental frequency<br>
+MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP - Several<br>
+measures of variation in fundamental frequency<br>
+MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA - Several measures of variation in amplitude<br>
+NHR,HNR - Two measures of ratio of noise to tonal components in the voice<br>
+status - Health status of the subject (one) - Parkinson's, (zero) - healthy<br>
+RPDE,D2 - Two nonlinear dynamical complexity measures<br>
+DFA - Signal fractal scaling exponent<br>
+spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation.   
     
