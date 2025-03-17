@@ -1,6 +1,6 @@
 public_ML-Parkinson_model-
 # PARKINSON DISEASE 
-Parkinson’s Disease (PD) is a progressive neurodegenerative disorder affecting movement due to the loss of dopamine-producing neurons in the substantia nigra. The exact cause is unknown, but genetic and environmental factors contribute to its development
+Parkinson’s Disease (PD) is a progressive neurodegenerative disorder affecting movement due to the loss of dopamine-producing neurons in the substantia nigra. The exact cause is unknown, but genetic and environmental factors contribute to its development.
 ![image alt](https://github.com/AManan651/public_ML-Parkinson_model-/blob/main/parkinson-disease-symptoms-infographic_1308-48394.jpg?raw=true)
 
 # Symptoms
