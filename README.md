@@ -1,4 +1,3 @@
-public_ML-Parkinson_model-
 # PARKINSON DISEASE 
 Parkinson's disease (PD) is a progressive neurodegenerative disorder that primarily affects movement. It is caused by the loss of dopamine-producing neurons in the substantia nigra, a region of the brain responsible for motor control. The exact cause of this neuronal loss is still unknown, but genetic and environmental factors are believed to play a role.
 
